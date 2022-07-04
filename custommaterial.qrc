@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>bob.jpg</file>
+        <file>shaders/textured.frag.qsb</file>
+        <file>shaders/textured.vert.qsb</file>
+    </qresource>
+</RCC>
